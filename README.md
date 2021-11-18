@@ -9,7 +9,7 @@ Currently, the exploratory data analysis is being developed along with different
     <img src='reports/figures/banner.jpg'<
 </p>
 
-## This project has the goal of identifying similarity amongst people, in order to find the most valuable clients to join a loyalty program.
+### This project has the goal of identifying similarity amongst people, in order to find the most valuable clients to join a loyalty program.
 
 <!---
 #### This project was made by Debora Craveiro.
@@ -22,7 +22,7 @@ Find the most significant customers in an online retail store using the data col
 # 2. Business Assumptions.
 
 ## Objective
-Engage the best customers to buy even more and to be loyal to the retail.
+Engage the best customers to buy even more and to be loyal to this retail.
 
 ## Questions to be answered
 - Who are the elegible people for the insiders program?
